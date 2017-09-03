@@ -11,7 +11,7 @@
     "dev:js-transform": "babel --watch --presets es2015 -d devapp app",
     "dev:browser-in-sync": "browser-sync start --server ./devapp --files \"./devapp/*/*.*\"",
     "build": "npm-run-all prod:*",
-    "prod:uglify": "uglifyjs app/js/* --compress --mangle --output prodapp/js/final.js",
+    "prod:uglify": "uglifyjs app/js/*.js --compress --mangle --output prodapp/js/final.js",
     "prod:minifyImage": "imagemin devapp/img/*.* --out-dir=prodapp/images --plugin=jpeg-recompress --plugin=svgo"
   },
   "author": "",
