@@ -1,0 +1,1 @@
+function divider(n,r){var t="asdf";return console.log(t),n/r}var multiplicator=function(){return{multiply:function(n,r){return n*r}}};

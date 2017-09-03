@@ -1,0 +1,15 @@
+.class {
+  color: blue;
+  border-radius: 10px / 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.id {
+  color: black;
+}
+
+.heading {
+  color: orange;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL2FwcC9zYXNzL3Nhc3Muc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFlBQVc7RUFDWCwyQkFBMEI7RUFDMUIsK0JBQXNCO1VBQXRCLHVCQUFzQjtDQUFJOztBQUU1QjtFQUNFLGFBQVk7Q0FBSTs7QUFDbEI7RUFDRSxjQUFhO0NBQUkiLCJmaWxlIjoic2Fzcy5jc3MifQ== */
